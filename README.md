@@ -2,6 +2,7 @@
 Registration to DSC ITB
 
 **NAME**: Lukman Fadlansyah R.
+
 **NIM** : 15118074
 
 I tried to explore one of the products in the arrays of Google Development product: Google Maps Platform.
